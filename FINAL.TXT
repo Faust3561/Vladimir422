@@ -1,12 +1,39 @@
-commit dec6e892a2f2f988ca88bc255c43d6427e1b4cda (HEAD -> master, origin/master, origin/branch2, branch2)
+commit f4ece81adcd8ddda916945f49a03845485b76c21 (HEAD -> master, origin/master)
+Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
+Date:   Mon Nov 9 21:23:14 2020 +0200
+
+    Update FINAL.TXT
+
+commit 487a464aafe2149a46c0373d5ca095cafc2c618a
+Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
+Date:   Mon Nov 9 21:17:16 2020 +0200
+
+    Create FINAL.TXT
+
+commit dec6e892a2f2f988ca88bc255c43d6427e1b4cda (origin/branch2, branch2)
 Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
 Date:   Mon Nov 9 21:08:18 2020 +0200
 
-CREATE FINAL.TXT
+    add sha-1-heads
+
+commit 71b77e3dd551746814659c2c8324553403bb70d5 (origin/branch5, origin/branch4, origin/branch3, branch5, branch4, branch3, branch1)
 Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
-Date:   Mon Nov 9 20:45:18 2020 +0200
+:...skipping...
+commit f4ece81adcd8ddda916945f49a03845485b76c21 (HEAD -> master, origin/master)
+Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
+Date:   Mon Nov 9 21:23:14 2020 +0200
 
+    Update FINAL.TXT
 
+commit 487a464aafe2149a46c0373d5ca095cafc2c618a
+Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
+Date:   Mon Nov 9 21:17:16 2020 +0200
+
+    Create FINAL.TXT
+
+commit dec6e892a2f2f988ca88bc255c43d6427e1b4cda (origin/branch2, branch2)
+Author: Faust3561 <70946767+Faust3561@users.noreply.github.com>
+Date:   Mon Nov 9 21:08:18 2020 +0200
 
     add sha-1-heads
 
